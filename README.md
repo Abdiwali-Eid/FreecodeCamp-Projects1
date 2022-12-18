@@ -10,7 +10,7 @@ This repository contains all my 100 Days of FilanTech Coding challenges. At the 
 ## Contents
 
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Learn Basic CSS by Building a Cafe Menu](https://github.com/Abdiwali-Eid/FreecodeCamp-Projects1/tree/main/part%20one/Learn%20Basic%20CSS%20by%20Building%20a%20Cafe%20Menu)
 * [Resources - click here to see the resources I use for my Learning](resources.md)
 
 
